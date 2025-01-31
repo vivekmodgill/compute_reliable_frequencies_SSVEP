@@ -20,8 +20,6 @@ where:
 <br>
 
 
-By iterating over all possible  N  values from 1 to  R , we generate all valid flicker frequencies that will be frame-locked and free of timing artifacts.
+By iterating over all possible  N  values from 1 to  R, we generate all valid flicker frequencies that will be frame-locked and free of timing artifacts.
 
 This ensures that the visual stimulus remains synchronized with the screen refresh rate, which is essential for precise control in SSVEP-based experiments.
-
-Run the following to install required libraries.
